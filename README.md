@@ -1,4 +1,4 @@
-# dark
+# vuechat 
 
 > A Vue.js project
 

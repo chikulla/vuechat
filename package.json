@@ -1,8 +1,8 @@
 {
-  "name": "dark",
+  "name": "vuechat",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Chikura Hara <chcklla@gmail.com>",
+  "author": "chikulla",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
